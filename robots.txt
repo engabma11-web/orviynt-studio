@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://orviynt-studio.orviynt.workers.dev/sitemap.xml
+Sitemap: https://orviynt-studio.onrender.com/sitemap.xml
